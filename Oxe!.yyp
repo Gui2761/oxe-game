@@ -57,6 +57,7 @@
     {"id":{"name":"obj_wall_door","path":"objects/obj_wall_door/obj_wall_door.yy",},},
     {"id":{"name":"rm_main_menu","path":"rooms/rm_main_menu/rm_main_menu.yy",},},
     {"id":{"name":"rm_main_tutorial","path":"rooms/rm_main_tutorial/rm_main_tutorial.yy",},},
+    {"id":{"name":"rm_new_room2","path":"rooms/rm_new_room2/rm_new_room2.yy",},},
     {"id":{"name":"scr_aim_system","path":"scripts/scr_aim_system/scr_aim_system.yy",},},
     {"id":{"name":"scr_ball_system","path":"scripts/scr_ball_system/scr_ball_system.yy",},},
     {"id":{"name":"scr_button_logic_system","path":"scripts/scr_button_logic_system/scr_button_logic_system.yy",},},
@@ -117,6 +118,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_main_menu","path":"rooms/rm_main_menu/rm_main_menu.yy",},},
     {"roomId":{"name":"rm_main_tutorial","path":"rooms/rm_main_tutorial/rm_main_tutorial.yy",},},
+    {"roomId":{"name":"rm_new_room2","path":"rooms/rm_new_room2/rm_new_room2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
